@@ -1,0 +1,98 @@
+h1{
+    color: rgb(133,88,92);
+    background-color: rgb(243, 235, 235);
+    text-align: center;
+    padding:50px;
+    margin: auto;
+    font-weight: 900;
+    font-family: sans-serif;
+  
+    
+}
+
+body{
+    margin:100px;
+    background-color:rgb(171,171,171);
+    text-align: center;
+    
+
+}
+
+
+div{
+    background-color:rgb(229,229,228);
+    padding-left:50px;
+  
+}
+
+table {
+    width: 100%;
+  }
+
+tr{
+  text-align: center;
+  border-spacing: 50px 0;
+  color:rgb(124,78,83);
+}
+
+th{
+  color:rgb(124,78,83);
+  font-size:larger;
+  text-align: left;
+
+
+}
+
+td{
+  color:rgb(164,112,116);
+  font-size:large;
+  padding: 8px;
+  text-align: left;
+  
+}
+
+th, td {
+    width: 40%;
+    border-spacing:50%;
+   
+   
+}
+
+textarea {
+    resize: none;
+    border:transparent;
+    text-align: left;
+    block-size: auto;
+    resize: both;
+    overflow: auto;
+  }
+  
+
+
+  h5{
+    color:rgb(100,109,132)
+  }
+ 
+
+  .text-center {
+    text-align: center;
+    background-color:rgb(131, 126, 126);
+    color:aliceblue;
+    border:none;
+    block-size:large;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:8px;
+    margin: 4px 2px;
+    margin-bottom: 40px;
+    width:20%;
+    
+  }
+  
+
+
+
+
+  
+  
